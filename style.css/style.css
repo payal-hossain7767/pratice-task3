@@ -131,3 +131,19 @@
     font-size: 16px;
     font-weight: 600;
 }
+.inspiration{
+    margin: 12px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 36px;
+}
+.inspiration2{
+    display: flex;
+    align-items: center;
+}
+.inspiration3{
+    width: 60%;
+    border-radius:48px;
+}
+.inspi{
+    display: flex;
+}
