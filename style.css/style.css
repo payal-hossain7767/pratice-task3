@@ -1,4 +1,47 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
+}
+
+#youmop {
+    background: linear-gradient(rgba(248, 197, 248, 0.363), rgba(231, 146, 227, 0.363), rgba(238, 205, 238, 0.308));
+}
+
+.ber {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.berh1 {
+    font-size: 36px;
+    margin-bottom: 16px;
+}
+
+#and {
+    color: rgb(162, 148, 249);
+    font-size: 48px
+}
+
+#porto {
+    color: rgb(162, 148, 249);
+    font-size: 48px
+}
+
+.berp {
+    font-size: 16px;
+    margin-bottom: 36px;
+}
+
+.berbtn {
+    margin: 10px;
+    padding: 16px 48px 16px 48px;
+    border-radius: 24px;
+    background: linear-gradient(rgba(54, 37, 202, 0.877), rgba(109, 52, 201, 0.795), rgba(236, 66, 214, 0.699));
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    color: white;
 }
