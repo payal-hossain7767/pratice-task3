@@ -36,12 +36,37 @@
 
 .berbtn {
     margin: 10px;
+    box-shadow: 2px 2px 2px black;
     padding: 16px 48px 16px 48px;
     border-radius: 24px;
     background: linear-gradient(rgba(54, 37, 202, 0.877), rgba(109, 52, 201, 0.795), rgba(236, 66, 214, 0.699));
     /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
     font-size: 20px;
     font-weight: 800;
     color: white;
+}
+
+#Featured{
+    
+}
+
+.cardimg {
+    margin: 16px;
+    padding: 20px;
+    border: 2px solid rgb(205, 193, 255);
+    border-radius: 12px;
+    width: 50%;
+}
+.cardimgtra{
+    width: 100%;
+   border-radius: 12px;
+   margin-bottom: 16px;
+}
+.btnTravel{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 12px 4px 12px 4px;
+    font-size: 16px;
+    font-weight: 600;
 }
