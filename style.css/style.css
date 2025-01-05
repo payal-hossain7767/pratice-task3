@@ -135,15 +135,32 @@
     margin: 12px;
     padding: 10px 20px 10px 20px;
     border-radius: 36px;
+    border: 2px solid white;
+    box-shadow: 3px 3px 3px 3px white;
 }
 .inspiration2{
     display: flex;
     align-items: center;
 }
 .inspiration3{
-    width: 60%;
+    width: 35%;
+    padding: 4px;
     border-radius:48px;
+}
+.inspirationh1{
+    margin: 12px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 36px;
+    border: 2px solid white;
+    /* background-color: rgb(191, 236, 255); */
+    box-shadow: 3px 3px 3px 3px white;
+    color: rgb(168, 136, 181);
 }
 .inspi{
     display: flex;
+    margin: 20px;
+}
+.inspi2{
+    display: flex;
+    margin: 20px 260px 20px 260px;
 }
